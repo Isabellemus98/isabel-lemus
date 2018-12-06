@@ -97,7 +97,15 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+body{
+    background-color: #033;
 
+}
+
+img{
+    width: 100%;
+    max-width: 100%;
+}
 
 
 
@@ -285,3 +293,6 @@ textarea {
         page-break-after: avoid;
     }
 }
+
+
+
